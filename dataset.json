@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "All verified restaurant listings in Stockton, California with a population of over 320k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
   "config_name": "All Restaurants in Stockton, California, US",
-  "export_job_id": "d3d67609-38de-4a2c-aa42-1a2a414aaba9",
+  "export_job_id": "f9e9e6f5-e3b7-4ae1-a87d-2f5dc3a100e5",
   "github_org": "Beamstation-Datasets",
   "id_short": 178103,
   "location_name": "Stockton",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/178103/beamstation_178103_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 9.9,
   "sample_records": 90,
-  "sample_sha256": "9e9359c1c656d2202b26045d814c462e148eb0cdafb2f812e19c9193919154b0",
-  "sample_size_bytes": 335063,
+  "sample_sha256": "3945463cec70c240558f788a2397b0698f62fb96ad460794c6325267a9e95802",
+  "sample_size_bytes": 312533,
   "total_records": 909,
-  "updated_at": "2026-04-07T11:48:04.161658+00:00"
+  "updated_at": "2026-04-14T11:39:56.236764+00:00"
 }
