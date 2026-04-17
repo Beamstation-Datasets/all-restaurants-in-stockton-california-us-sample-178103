@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 909 records |
 | Free sample size | 90 records (9.9%) |
-| Last export | 2026-04-07T11:48:04.161658+00:00 |
+| Last export | 2026-04-14T11:39:56.236764+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-stockton-california-us-sample-178103/releases/download/sample-latest/beamstation_178103_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
