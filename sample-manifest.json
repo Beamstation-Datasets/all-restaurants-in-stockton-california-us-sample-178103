@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f9e9e6f5-e3b7-4ae1-a87d-2f5dc3a100e5",
+  "export_job_id": "fe10e4fb-610b-44f0-905b-81f5dcabba27",
   "id_short": 178103,
-  "published_at": "2026-04-17T07:43:20Z",
+  "published_at": "2026-04-21T19:08:06Z",
   "repo_name": "all-restaurants-in-stockton-california-us-sample-178103",
   "sample_asset_name": "beamstation_178103_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/178103/beamstation_178103_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 90,
-  "sample_sha256": "3945463cec70c240558f788a2397b0698f62fb96ad460794c6325267a9e95802",
-  "sample_size_bytes": 312533,
-  "total_records": 909
+  "sample_records": 68,
+  "sample_sha256": "18c7cafe16dbf88de344417060aef3f2d19f697dbdf678c6fe92af40b375ec6e",
+  "sample_size_bytes": 230006,
+  "total_records": 683
 }
