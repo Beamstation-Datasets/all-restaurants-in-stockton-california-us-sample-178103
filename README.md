@@ -1,6 +1,6 @@
 # All Restaurants in Stockton, California, US
 
-> Free BeamStation sample export with 68 rows and masked direct-contact fields.
+> Free BeamStation sample export with 84 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `178103` |
 | Location | Stockton |
 | Category | Restaurants |
-| Full dataset size | 683 records |
-| Free sample size | 68 records (9.96%) |
-| Last export | 2026-04-21T12:08:52.392717+00:00 |
+| Full dataset size | 847 records |
+| Free sample size | 84 records (9.92%) |
+| Last export | 2026-04-28T12:57:07.647507+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-stockton-california-us-sample-178103/releases/download/sample-latest/beamstation_178103_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
